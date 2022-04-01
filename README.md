@@ -22,17 +22,29 @@ In order for the program to run properly, make sure your csv files are located i
 ## Table of Contents 
 
 **Part 1**
+
 •  Import Packages
+
 •  Mount Google Drive
+
 •  Read the Dataset
+
 •  Data Inspection and Quality Analysis
+
 •  Data Processing
 
+
 **Part 2**
+
 •  Build Logistic Regression Models and adjusted Hyperperparameters to improve model performance 
+
 •  Sort by importance after selecting best model 
 
+
 **Part 3**
+
 •  Classification Report
+
 •  ROC Curve 
+
 •  ROC AUC Curve 
