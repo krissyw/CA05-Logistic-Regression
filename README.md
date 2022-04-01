@@ -21,7 +21,7 @@ In order for the program to run properly, make sure your csv files are located i
 
 ## Table of Contents 
 
-###**Part 1**
+### **Part 1**
 
 •  Import Packages
 
@@ -34,14 +34,14 @@ In order for the program to run properly, make sure your csv files are located i
 •  Data Processing
 
 
-###**Part 2**
+### **Part 2**
 
 •  Build Logistic Regression Models and adjusted Hyperperparameters to improve model performance 
 
 •  Sort by importance after selecting best model 
 
 
-###**Part 3**
+### **Part 3**
 
 •  Classification Report
 
